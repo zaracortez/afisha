@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e2ab965-eb9c-4923-9fbd-f996d8e15ec0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/afisha/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/afisha/Manager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +44,7 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn verify" />
+      <command value="mvn test" />
     </option>
   </component>
   <component name="RunManager" selected="JUnit.ManagerTest.testAddedAll">

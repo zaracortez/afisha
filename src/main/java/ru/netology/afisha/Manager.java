@@ -39,5 +39,6 @@ public class Manager {
             result[i] = movies[movies.length - 1 - i];
         }
         return result;
+
     }
-    }
+}
