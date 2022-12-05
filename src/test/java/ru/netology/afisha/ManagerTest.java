@@ -149,5 +149,25 @@ public class ManagerTest {
         Assertions.assertArrayEquals(expected, actual);
     }
 
+    @Test
+    public void testAddedBorderTheSameAsLimit() {
+        String movie1 = "movie1";
+        String movie2 = "movie2";
+        String movie3 = "movie3";
+        String movie4 = "movie4";
+        String movie5 = "movie5";
+        Manager manager = new Manager(5);
+        manager.add(movie5);
+
+
+        String[] expected = {
+
+
+                movie5,
+        };
+        String[] actual = manager.findLast();
+        Assertions.assertArrayEquals(expected, actual);
+    }
+
 
 }

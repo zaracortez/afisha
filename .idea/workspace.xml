@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0e2ab965-eb9c-4923-9fbd-f996d8e15ec0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/afisha/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/afisha/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/afisha/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/afisha/ManagerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +37,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "C:/Homework/afisha/src/test/java"
+    "last_directory_selection": "C:/Homework/afisha/src/test/java",
+    "last_opened_file_path": "C:/Homework/Radio"
   }
 }]]></component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="mvn verify" />
       <command value="mvn test" />
+      <command value="mvn verify" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ManagerTest.testAddedAll">
+  <component name="RunManager" selected="JUnit.ManagerTest.testAddedBorderTheSameAsLimit">
     <configuration name="ManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="afisha" />
       <extension name="coverage">
@@ -79,10 +79,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ManagerTest.testAddedBorderTheSameAsLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="afisha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.afisha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.afisha" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.afisha.ManagerTest" />
+      <option name="METHOD_NAME" value="testAddedBorderTheSameAsLimit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ManagerTest.testAddedAll" />
+        <item itemvalue="JUnit.ManagerTest.testAddedBorderTheSameAsLimit" />
         <item itemvalue="JUnit.ManagerTest" />
+        <item itemvalue="JUnit.ManagerTest.testAddedAll" />
       </list>
     </recent_temporary>
   </component>
