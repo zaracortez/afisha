@@ -32,53 +32,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "C:/Homework/afisha/src/test/java",
-    "last_opened_file_path": "C:/Homework/Radio"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Homework/afisha/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Homework/afisha&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn test" />
       <command value="mvn verify" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ManagerTest.testAddedBorderTheSameAsLimit">
-    <configuration name="ManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="afisha" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.netology.afisha.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.netology.afisha" />
-      <option name="MAIN_CLASS_NAME" value="ru.netology.afisha.ManagerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ManagerTest.testAddedAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="afisha" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.netology.afisha.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.netology.afisha" />
-      <option name="MAIN_CLASS_NAME" value="ru.netology.afisha.ManagerTest" />
-      <option name="METHOD_NAME" value="testAddedAll" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ManagerTest.testAddedTheSameAmount">
     <configuration name="ManagerTest.testAddedBorderTheSameAsLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="afisha" />
       <extension name="coverage">
@@ -95,11 +64,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ManagerTest.testAddedLastAboveBorderOnLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="afisha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.afisha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.afisha" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.afisha.ManagerTest" />
+      <option name="METHOD_NAME" value="testAddedLastAboveBorderOnLimit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.testAddedLessBorderOnLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="afisha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.afisha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.afisha" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.afisha.ManagerTest" />
+      <option name="METHOD_NAME" value="testAddedLessBorderOnLimit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.testAddedLessBorderThanLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="afisha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.afisha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.afisha" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.afisha.ManagerTest" />
+      <option name="METHOD_NAME" value="testAddedLessBorderThanLimit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.testAddedTheSameAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="afisha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.afisha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.afisha" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.afisha.ManagerTest" />
+      <option name="METHOD_NAME" value="testAddedTheSameAmount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ManagerTest.testAddedTheSameAmount" />
+        <item itemvalue="JUnit.ManagerTest.testAddedLastAboveBorderOnLimit" />
+        <item itemvalue="JUnit.ManagerTest.testAddedLessBorderThanLimit" />
+        <item itemvalue="JUnit.ManagerTest.testAddedLessBorderOnLimit" />
         <item itemvalue="JUnit.ManagerTest.testAddedBorderTheSameAsLimit" />
-        <item itemvalue="JUnit.ManagerTest" />
-        <item itemvalue="JUnit.ManagerTest.testAddedAll" />
       </list>
     </recent_temporary>
   </component>
