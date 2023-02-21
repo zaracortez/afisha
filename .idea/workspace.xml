@@ -47,23 +47,7 @@
       <command value="mvn verify" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ManagerTest.testAddedTheSameAmount">
-    <configuration name="ManagerTest.testAddedBorderTheSameAsLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="afisha" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.netology.afisha.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.netology.afisha" />
-      <option name="MAIN_CLASS_NAME" value="ru.netology.afisha.ManagerTest" />
-      <option name="METHOD_NAME" value="testAddedBorderTheSameAsLimit" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ManagerTest.testFindLastIfArrayLowThanLimit">
     <configuration name="ManagerTest.testAddedLastAboveBorderOnLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="afisha" />
       <extension name="coverage">
@@ -75,38 +59,6 @@
       <option name="PACKAGE_NAME" value="ru.netology.afisha" />
       <option name="MAIN_CLASS_NAME" value="ru.netology.afisha.ManagerTest" />
       <option name="METHOD_NAME" value="testAddedLastAboveBorderOnLimit" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ManagerTest.testAddedLessBorderOnLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="afisha" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.netology.afisha.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.netology.afisha" />
-      <option name="MAIN_CLASS_NAME" value="ru.netology.afisha.ManagerTest" />
-      <option name="METHOD_NAME" value="testAddedLessBorderOnLimit" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ManagerTest.testAddedLessBorderThanLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="afisha" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.netology.afisha.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.netology.afisha" />
-      <option name="MAIN_CLASS_NAME" value="ru.netology.afisha.ManagerTest" />
-      <option name="METHOD_NAME" value="testAddedLessBorderThanLimit" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,13 +80,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ManagerTest.testFindLastCustomLimit5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="afisha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.afisha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.afisha" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.afisha.ManagerTest" />
+      <option name="METHOD_NAME" value="testFindLastCustomLimit5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.testFindLastCustomLimitEqualArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="afisha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.afisha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.afisha" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.afisha.ManagerTest" />
+      <option name="METHOD_NAME" value="testFindLastCustomLimitEqualArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.testFindLastIfArrayLowThanLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="afisha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.afisha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.afisha" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.afisha.ManagerTest" />
+      <option name="METHOD_NAME" value="testFindLastIfArrayLowThanLimit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ManagerTest.testFindLastIfArrayLowThanLimit" />
+        <item itemvalue="JUnit.ManagerTest.testFindLastCustomLimitEqualArray" />
+        <item itemvalue="JUnit.ManagerTest.testFindLastCustomLimit5" />
         <item itemvalue="JUnit.ManagerTest.testAddedTheSameAmount" />
         <item itemvalue="JUnit.ManagerTest.testAddedLastAboveBorderOnLimit" />
-        <item itemvalue="JUnit.ManagerTest.testAddedLessBorderThanLimit" />
-        <item itemvalue="JUnit.ManagerTest.testAddedLessBorderOnLimit" />
-        <item itemvalue="JUnit.ManagerTest.testAddedBorderTheSameAsLimit" />
       </list>
     </recent_temporary>
   </component>
